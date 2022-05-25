@@ -14,7 +14,6 @@ let currentTapePosition = 1;
 let movements = {'L': -1, 'R': 1, 'H': 0};
 const entry = toArray('aabbbccc');
 let alphabet = toArray('abc');
-// let states = toArray('ABCDEFG');
 let states = toArray('ABCDEFG');
 let currentNode = '';
 
